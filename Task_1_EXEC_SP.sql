@@ -1,0 +1,2 @@
+
+EXEC UpdateSchoolByID 6;
