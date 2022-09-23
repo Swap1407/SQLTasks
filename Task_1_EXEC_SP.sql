@@ -1,2 +1,2 @@
 
-EXEC UpdateSchoolByID 6;
+EXEC UpdateName 'Parth';
