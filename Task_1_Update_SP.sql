@@ -1,8 +1,8 @@
 
-CREATE Procedure UpdateSchoolByID @ID int
+CREATE Procedure UpdateName @name varchar(30)
 AS  
    BEGIN  
       UPDATE person_data      
-      SET schoolName = 'ESM'      
-      WHERE ID = @ID;    
+      SET name = @name      
+      WHERE name = 'Laukik';    
    END;  
